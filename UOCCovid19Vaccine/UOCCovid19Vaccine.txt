@@ -1,0 +1,1 @@
+./Release/src_developer.c.o ./Release/src_vaccine.c.o ./Release/src_country.c.o ./Release/src_commons.c.o
